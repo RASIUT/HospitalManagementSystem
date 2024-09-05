@@ -1,4 +1,4 @@
-# Hostel Management System
+# Hospital Management System
 
 We have three classes named as Patient, Doctor and Hospital Management :- 
 
